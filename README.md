@@ -6,7 +6,7 @@
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=flat-square&logo=vercel)](https://ghefont.vercel.app/)
 ![React](https://img.shields.io/badge/React-Hooks-61DAFB?style=flat-square&logo=react)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
 
 ---
 
