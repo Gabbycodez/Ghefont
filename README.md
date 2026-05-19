@@ -51,6 +51,7 @@ Ghefont removes that entirely. It's a tool built for one environment, doing one 
 ---
 
 ## Getting Started
+Type /embed in Notion, paste the link, and your font styler is built right into your workspace.
 
 ### Prerequisites
 
